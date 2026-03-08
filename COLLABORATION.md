@@ -1,6 +1,6 @@
 # Collaboration & Research Entry
 
-Contradex is an architectural ecosystem focused on deterministic evolution of systems, logic, and semantics.
+logic-sieve-apcm is an architectural ecosystem focused on deterministic evolution of systems, logic, and semantics.
 
 ## Current State
 
