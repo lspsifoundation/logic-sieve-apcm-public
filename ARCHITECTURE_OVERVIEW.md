@@ -1,8 +1,8 @@
-# Contradex APCM — Architecture Overview
+# logic-sieve-apcm — Architecture Overview
 
 ## Purpose
 
-Contradex APCM is a distributed architectural ecosystem designed for deterministic evolution of logic, semantics, and applied systems.
+logic-sieve-apcm is a distributed architectural ecosystem designed for deterministic evolution of logic, semantics, and applied systems.
 
 The architecture is intentionally layered to separate stability from experimentation.
 
